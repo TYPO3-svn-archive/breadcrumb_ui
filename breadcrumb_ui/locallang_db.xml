@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'breadcrumb_ui'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">Easy Breadcrumb</label>
+      <label index="pages.tx_breadcrumbui_breadcrumb_hide">Hide in Breadcrumb</label>
+			<label index="pages.tx_breadcrumbui_breadcrumb_unlink">Unlink in Breadcrumb</label>
+		</languageKey>
+	</data>
+</T3locallang>
+
